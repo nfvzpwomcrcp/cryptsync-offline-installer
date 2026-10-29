@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-File+Encryption-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Encrypted+Sync-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CryptSync Free Installer** — CryptSync is a free, open-source Windows utility that syncs files between two folders while encrypting everything in one of them. Works without internet access, no account required. Full offline installation.
+**💻 CryptSync Free Installer** — CryptSync is a free, open-source Windows utility that synchronizes files between two folders while encrypting the destination with 7-Zip and GPG. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About CryptSync
 
-CryptSync is a free, open-source Windows utility that syncs files between two folders while encrypting everything in one of them. It is designed for secure cloud storage sync, encrypting files before they are uploaded to Dropbox, OneDrive, or Google Drive.
+CryptSync is a free, open-source Windows utility that synchronizes files between two folders while encrypting the destination with 7-Zip and GPG. Sync your files to Dropbox, OneDrive, or other cloud services with client-side encryption — even if the cloud service is compromised, your files remain encrypted. CryptSync provides a simple way to use any cloud service securely.
 
 ---
 
 ## ❌ Problem: CryptSync is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Manual Setup** — Requires configuring sync pairs and encryption keys manually
-- **No GUI Polish** — Interface is functional but minimalist
-- **Password Management** — Losing the encryption password means permanent data loss
+- **Windows Only** — No cross-platform support
+- **Manual Sync** — Sync triggered manually or through scheduled tasks; not instant like cloud services
+- **Passphrase Management** — Forgetting the encryption passphrase means permanent data loss
+- **Development Status** — Limited recent development activity
 
 ---
 
@@ -121,7 +121,7 @@ CryptSync is a free, open-source Windows utility that syncs files between two fo
 
 ---
 
-**CryptSync Free Installer** — CryptSync is a free, open-source Windows utility that syncs files between two folders while encrypting everything in one of them. Install without internet connection today!
+**CryptSync Free Installer** — CryptSync is a free, open-source Windows utility that synchronizes files between two folders while encrypting the destination with 7-Zip and GPG. Install without internet connection today!
 
 <div align="center">
 
